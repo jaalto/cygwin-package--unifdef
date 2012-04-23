@@ -35,7 +35,7 @@ Upstream contact:
   Bugs:
 
 License:
-  Custom
+  BSD-like
 
   See file COPYING:
 
@@ -66,14 +66,17 @@ Build instructions:
 ------------------------------------------
 
 Files included in the binary distribution:
-  See content of *.tar.gz
+  See Cygwin package archive
 
 ------------------------------------------
 
 Port Notes:
 
+----- version 2.6-1 -----
+- New upstream release 2012-04-23 Jari Aalto
+
 ----- version 1.0+20030701-1 -----
 - Initial release 2008-03-06 Jari Aalto
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2008 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2008-2012 Jari Aalto; Licensed under GPL v2 or later

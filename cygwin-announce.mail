@@ -1,12 +1,11 @@
 To: cygwin-announce@cygwin.com
-Subject: Updated: package N.N
-Subject: New package: unifdef 1.0+20030701-1 -- Remove #ifdef lines from source files
+Subject: Updated: unifdef 2.6-1 -- Remove #ifdef lines from source files
 
 PACKAGE DESCRIPTION
 ===================
 
 Homepage: http://www.freebsd.org/cgi/cvsweb.cgi/src/usr.bin/unifdef
-License : Custom
+License : BSD-like
 
 The unifdef utility selectively processes conditional C/C++
 directives. It removes from a file both the directives and any
