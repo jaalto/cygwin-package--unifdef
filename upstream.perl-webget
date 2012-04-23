@@ -1,2 +1,2 @@
 tag1: unifdef
-  http://packages.debian.org/unstable/unifdef pregexp:orig.tar.gz file:unifdef_1.0+20030701.orig.tar.gz  new: x:
+  http://packages.debian.org/unstable/unifdef pregexp:orig.tar.gz file:unifdef_2.6.orig.tar.gz  new: x:
